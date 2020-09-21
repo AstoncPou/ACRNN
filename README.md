@@ -1,7 +1,7 @@
 # ACRNN
 Code for paper: EEG-based Emotion Recognition via Channel-wise Attention and Self Attention
 ## About the paper
-* Title: [EEG-based Emotion Recognition via Channel-wise Attention and Self Attention]
+* Title: [EEG-based Emotion Recognition via Channel-wise Attention and Self Attention](https://www.researchgate.net/publication/344281379_EEG-based_Emotion_Recognition_via_Channel-wise_Attention_and_Self_Attention)
 * Authors: Wei Tao, Chang Li, Rencheng Song, Juan Cheng, Yu Liu, Feng Wan and Xun Chen
 * Institution: Hefei University of Technology
 * Published in: IEEE Transactions on Affective Computing
